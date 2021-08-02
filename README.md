@@ -1,3 +1,3 @@
 # video-tracker
 
-https://haydex.github.io/vtracker/
+https://haydex.github.io/vtracker-webstorm/
